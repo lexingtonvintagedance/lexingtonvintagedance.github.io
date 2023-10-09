@@ -1,0 +1,41 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>LVD - Dance With Us</title>
+    <link href="Style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <table style="background-color: White; height: 100%; width: 760; border-width: 0"
+        align="center" cellpadding="0" cellspacing="0">
+        <tr>
+            <td colspan="3" valign="top" style="height: 87">
+                <img src="images/header.jpg" style="height: 142; width: 760; border-width: 0" alt="Welcome to Lexington Vintage Dance" /><br />
+            </td>
+        </tr>
+        <tr>
+            <td style="background-image: url(images/nav_bg.jpg)" valign="top">
+                <!--#include file="insert_nav.html"-->
+            </td>
+            <td valign="top">
+                <center>
+                    <table style="background-color: White; height: 100%; width: 419; border-width: 0"
+                        cellpadding="3" cellspacing="0">
+                        <tr>
+                            <td valign="top">
+                                <img src="images/trans_bg.gif" style="height: 100%; width: 80; border-width: 0" alt="" /><br />
+                            </td>
+                        </tr>
+                    </table>
+                </center>
+            </td>
+            <td valign="top" style="background-image: url(images/news_bg.jpg)">
+            <!--#include file="insert_news.html"-->
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3" valign="top" style="height: 17">
+                <img src="images/footer.jpg" style="height: 31; width: 760; border-width: 0" alt="" /><br />
+            </td>
+        </tr>
+    </table>
+</body>
+</html>

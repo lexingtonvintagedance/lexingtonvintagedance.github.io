@@ -1,0 +1,119 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=windows-1252">
+    <title>LVD - Vintage Dance Classes</title>
+    <link href="Style.css" rel="stylesheet" type="text/css">
+  </head>
+  <body>
+    <table style="background-color: White; width: 760; height: 100%" cellspacing="0"
+      cellpadding="0" border="0" align="center">
+      <tbody>
+        <tr>
+          <td colspan="3" style="height: auto" valign="top"> <img src="images/header.jpg"
+              alt="Welcome to Lexington Vintage Dance" style="border-style: none"
+              height="142" width="760"><br>
+          </td>
+        </tr>
+        <tr>
+          <td style="background-image: url(images/nav_bg.jpg)" valign="top">
+            <!--#include file="insert_nav.html"--> <br>
+          </td>
+          <td style="width: 411px" valign="top">
+            <center> <img style="border-style: solid; border-width: thin" src="images/mostly_waltz.jpg"
+                alt="Vintage Dance Classes" height="216" width="409"></center>
+            <br>
+            <center>
+              <table style="background-color: White; width: 413; height: 28" cellspacing="0"
+                cellpadding="0" border="0">
+                <tbody>
+                  <tr>
+                    <td valign="top"> <a href="vintage.shtml"> <img src="images/vintage.gif"
+                          alt="Vintage Dance" style="border-style: none" height="28"
+                          width="114"></a><br>
+                    </td>
+                    <td valign="top"> <a href="http://lextango.com/LexingtonTangoClasses.htm"
+                        target="blank"> <img src="images/tango.gif" alt="Argentine Tango"
+                          style="border-style: none" height="28" width="127"></a><br>
+                    </td>
+                    <td valign="top"> <a href="https://www.facebook.com/groups/173439042715/"
+                        target="blank"> <img src="images/country.gif" alt="Scottish Country Dance"
+                          style="border-style: none" height="28" width="172"></a><br>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </center>
+            <center>
+              <table style="background-color: White; width: 413; height: 100%" cellspacing="0"
+                cellpadding="3" border="0">
+                <tbody>
+                  <tr>
+                    <td valign="top"> <img src="images/trans_bg.gif" alt="" style="border-style: none"
+                        height="10" width="80"><br>
+                      <p> Advance registration for most vintage dance classes is
+                        NOT required; register and pay fee at first lesson.
+                        Although you can register without a partner, we
+                        recommend signing up as couples to promote gender
+                        balance.</p>
+                      <p> In most vintage dance classes, the instructor will ask
+                        you frequently to change partners. There are several
+                        reasons for this. People learn dance more quickly when
+                        they dance with different partners, because each partner
+                        will have different strengths and weaknesses. Changing
+                        partners allows those who come without a partner to
+                        dance wtih someone. Also, vintage dance manners
+                        encourage dancing with different partners to be sociable
+                        and assure that everyone has a good time. If you come
+                        with a special partner and you really only want to dance
+                        with that partner, please notify the instructor.</p>
+                      <p> If you would like us to teach a particular type of
+                        vintage dance in the future, please e-mail your request
+                        to <a href="mailto:lexingtonvintagedance@gmail.com" target="_blank">lexingtonvintagedance@gmail.com</a>
+                        Questions about our classes may be sent to this address
+                        also.</p>
+                      <a name="class"></a>
+                      <!--
+                                <p style="font-weight: 700; text-decoration: underline">                                    Waltz Classes</p>					<p>                                    <b>Date:</b> Mondays, Apr. 11 - May 16, 2016<br />                                    <b>Time:</b> Waltz Basics 7:00 - 8:00; Beyond the Basics 8:00 - 9:00 pm<br />                                    <b>Place:</b> Studio 3B, ArtsPlace<br />                                    <b>Instructors:</b> Kelly Sikorski, Ellen Hume, Danby Carter<br />                                    <b>Cost:</b> $35/person/series</p>                                <p>						Ou <strong>Waltz Basics</strong> series consists of four lessons followed by a						fifth session for practice and individual coaching.  In case a lesson has to be 						canceled due to bad weather or other emergency, the fifth session will be used as a						make-up lesson. The cost of the series is $35 per person, payable at the first						lesson. Students who miss the first lesson may join later with the consent of the						instructors, but the fee will still be $35.</p>					<p>						Included in the fee for the waltz series is a sixth session called <strong>Beyond Waltzing.</strong> 						This optional two-hour, mixed-level workshop will be an introduction to other types 						of vintage dance, such as polka, schottische, Ragtime tango or one-step, as well as time for open waltzing.  This session 						is also open to dancers not enrolled in the waltz series, at a cost of $7/person.</p>					<p>						<strong>Beyond the Basics</strong> will be organized similarly, except that dancers have the option of						paying $35 up front for the 6 sessions, or coming on a drop-in basis at $7/person per session.</p>                                <p>                                    Our waltz classes offer a very affordable way to learn traditional turning                                    waltz and modern cross-step waltz. This is the place to get started in waltzing                                    or to improve your waltzing skills and repertoire.</p>                                <p>                                    <strong>Waltz Basics</strong> is appropriate for those who have not done these types of waltzing                                    before or who want to develop their basic skills. The topic for the Feb-Mar series is						cross-step waltz. For Apr-May, the theme will be traditional turning waltz.</p>                                <p>
+                                    <strong>Beyond the Basics</strong> focuses on building a repertoire of variations, musicality                                    and lead/follow skills.&nbsp; Prerequisite is the ability to do sustained turning                                    in both traditional and cross-step waltz.</p>                                <p>                                    The last 15 minutes or so of both classes will be reserved for free-style waltzing.                                    Students attending the 8:00 class may come for the waltzing at 7:45 if they wish.</p>                                <p>                                    The content of all classes will be customized to the students. If you have any question                                    about the content and method of the classes or which class is appropriate for you,                                    please e-mail the instructors at <a href="mailto:info@LexingtonVintageDance.org">info@LexingtonVintageDance.org</a>.</p>--->
+                      <a name="beyond"></a>
+                      <p style="font-weight: 700; text-decoration: underline">
+                        Waltz &amp; Beyond</p>
+                      <p> <b><strong style="color: rgb(0, 0, 0); font-family: arial, Arial, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;">Waltz
+                            &amp; Beyond<br>
+                          </strong></b></p>
+                      <p><b><strong style="color: rgb(0, 0, 0); font-family: arial, Arial, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;"></strong>Date:</b>
+                        2nd Mondays, Sep 2017 - May 2018<br>
+                        <b>Time:</b> Lesson 7:00 - 7:45pm, Dancing 7:50 - 9:00<br>
+                        <b>Place:</b> Studio B, ArtsPlace<br>
+                        <b>Instructors:</b> Jan Pearce &amp; Kelly Sikorski<br>
+                        <b>Cost:</b> $5/person, $10//couple (students with
+                        current IDs $3)</p>
+                      <p> These evenings offer an introduction to waltz and
+                        other types of vintage dance, such as polka,
+                        schottische, two-step, one-step or fox-trot. Following
+                        the lesson, there will be open dancing to recorded
+                        music, including lots of waltzes, a few dances of the
+                        featured type and other types previously taught, plus a
+                        group dance of some kind. Expect a good mix of
+                        experienced and new dancers.</p>
+                      <p> In April, we will have a lesson on turning waltz.</p>
+                      <br>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </center>
+          </td>
+          <td style="background-image: url(images/news_bg.jpg)" valign="top">
+            <!--#include file="insert_news.html"--> <br>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="3" style="height: auto" valign="top"> <img src="images/footer.jpg"
+              alt="" style="border-style: none" height="31" width="760"><br>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </body>
+</html>

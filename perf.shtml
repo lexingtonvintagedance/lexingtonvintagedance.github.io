@@ -1,0 +1,108 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=windows-1252">
+    <title>LVD - Performances</title>
+    <link href="Style.css" rel="stylesheet" type="text/css">
+  </head>
+  <body>
+    <table style="background-color: White; height: 100%; width: 760; border-width: 0"
+      cellspacing="0" cellpadding="0" align="center">
+      <tbody>
+        <tr>
+          <td colspan="3" style="height: 87" valign="top"> <img src="images/header.jpg"
+              style="height: 142; width: 760; border-width: 0" alt="Welcome to Lexington Vintage Dance "><br>
+          </td>
+        </tr>
+        <tr>
+          <td style="background-image: url(images/nav_bg.jpg)" valign="top">
+            <!--#include file="insert_nav.html"--> <br>
+          </td>
+          <td style="width: 419" valign="top">
+            <center> <img src="images/header/perf.jpg" style="height: 216; width: 409; border-width: 1"
+                alt="Performances"></center>
+            <!--<center><table bgcolor="#FFFFFF" width="413" height="28" border="0" cellpadding="0" cellspacing="0">
+						<tr>
+							<td valign="top"><a href="#perf"><img src="images/upcoming.gif" width="218" height="28" alt="Upcoming Performances" border="0"></a><br>
+							</td>
+							<td valign="top"><a href="let_us.shtml"><img src="images/letus.gif" width="195" height="28" alt="Let Us Dance for You" border="0"></a><br>
+							</td>
+						</tr>
+			</table></center>-->
+            <center>
+              <table style="background-color: White; height: 100%; width: 400; border-width: 0"
+                cellspacing="0" cellpadding="3">
+                <tbody>
+                  <tr>
+                    <td valign="top"> <img src="images/trans_bg.gif" style="height: 1; width: 80; border-width: 0"
+                        alt=""><br>
+                      <p> For more information and bookings, please visit our <a
+                          href="contact.shtml">Contact Us</a> page.</p>
+                      <p> Lexington Vintage Dance is listed in the Kentucky Arts
+                        Council's <a href="http://www.artistdirectory.ky.gov/performingarts/lexvintagedancesoc.htm">
+                          Performing Arts Directory</a>. See <a href="http://artscouncil.ky.gov"
+                          target="blank"> artscouncil.ky.gov</a>.</p>
+                      <b>Lexington Vintage Dance Performing Troupe</b>
+                      <p></p>
+                      <p> "Wow! What a performance you gave our audience
+                        tonight. They want you back again next year. Superb job
+                        all around."<br>
+                        ---Judy Pearson, Performing Arts Alliance of Rural
+                        Tennessee. </p>
+                      <p> "You all do a fantastic job and add elegance to any
+                        event."<br>
+                        ---Ann Hagan-Michel, Executive Director, Ashland the
+                        Henry Clay Estate. </p>
+                      <p> "The performance was a big success by any
+                        measurement... one of the best investments of
+                        programming dollars we've every made."<br>
+                        ---Sylvia Baber, Reference Librarian, Woodford County
+                        Library, Versailles, KY </p>
+                      <p> Does your organization have an interest in
+                        entertainment, the arts, or history? We've performed for
+                        audiences at reenactments, museums, concerts, historic
+                        homes, festivals, theaters, schools, private parties,
+                        retirement communities, wedding receptions, and
+                        conferences.</p>
+                      <p> Are you planning an event? A musical performance? A
+                        Civil War event? We can develop our performance to suit
+                        your needs. We can include anecdotes and history about
+                        the dances, social customs, costumes, and music of the
+                        time. We can also teach a step or two.</p>
+                      <p> We love to join forces with other arts groups for
+                        special performances. We've performed with the Kentucky
+                        Ballet Theatre, Saxton's Cornet Band, the Lexington
+                        Chamber Chorale, and the Central Kentucky Concert Band.
+                        We've danced for the Lexington Philharmonic Orchestra
+                        and the Owensboro Symphony. We are the dancers in the
+                        documentary <a href="http://www.michaelbreedingmedia.com/mbmedia/video-gallery-2-0/">"Kentucky
+                          Governor's Mansion: A Century of Reflection"</a> by
+                        Michael Breeding..</p>
+                      <p> <b>Places we have performed (among others):</b></p>
+                      <p> <a href="http://www.lexingtonky.gov/index.aspx?page=230"
+                          target="blank">Ballet under the Stars</a></p>
+                      <p> <a href="http://www.biltmore.com" target="blank">Biltmore
+                          Estate</a></p>
+                      <p> <a href="http://www.fraziermuseum.org" target="blank">The
+                          Frazier Historical Arms Museum</a></p>
+                      <p> <a href="http://www.uky.edu/FineArts/Music/opera/" target="blank">University
+                          of Kentucky Opera Theatre</a></p>
+                      <p> </p>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </center>
+          </td>
+          <td style="background-image: url(images/news_bg.jpg)" valign="top">
+            <!--#include file="insert_news.html"--> <br>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="3" style="height: 17" valign="top"> <img src="images/footer.jpg"
+              style="height: 31; width: 760; border-width: 0" alt=""><br>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </body>
+</html>

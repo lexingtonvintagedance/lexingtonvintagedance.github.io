@@ -1,0 +1,104 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=windows-1252">
+    <title>LVD - Dance Opportunities</title>
+    <link href="Style.css" rel="stylesheet" type="text/css">
+    <style type="text/css">
+
+        .style2
+
+        {
+
+            text-decoration: underline;
+
+            height: 21px;
+
+        }
+
+        </style>
+  </head>
+  <body>
+    <table style="background-color: White; height: 100%; border-width: 0" cellspacing="0"
+      cellpadding="0" align="center" width="760">
+      <tbody>
+        <tr>
+          <td colspan="3" style="height: 87px" valign="top"> <img src="images/header.jpg"
+              alt="Welcome to Lexington Vintage Dance " style="border-width: 0"
+              height="142" width="760"><br>
+          </td>
+        </tr>
+        <tr>
+          <td style="background-image: url(images/nav_bg.jpg)" valign="top">
+            <!--#include file="insert_nav.html"--> <br>
+          </td>
+          <td style="width: 419" valign="top">
+            <center> <img src="images/header/dance_opp.jpg" alt="Dance Opportunities"
+                style="border-width: 1" height="216" width="409"></center>
+            <br>
+            <!--
+                <center>                    <table width="413" style="border-width: 0; background-color: White; height: 28" cellpadding="0"                        cellspacing="0">                        <tr>                            <td valign="top">                                <a href="#mostly">                                    <img src="images/mostly.gif" width="203" height="28" alt="mostly waltz" style="border-width: 0" /></a><br />                            </td>                            <td valign="top">                                <a href="#balls">                                    <img src="images/balls.gif" width="210" height="28" alt="balls and workshops" style="border-width: 0" /></a><br />                            </td>                        </tr>                    </table>                </center>-->
+            <center>
+              <table style="border-width: 0; background-color: White; height: 100%"
+                cellspacing="0" cellpadding="3" width="413">
+                <tbody>
+                  <tr>
+                    <td valign="top"> <br>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td valign="top"> <img src="images/trans_bg.gif" alt="" style="border-width: 0"
+                        height="1" width="80"> <a name="mostly"></a><br>
+                      <b>Workshops and Balls</b> <br>
+                      <a href="/KYWW_Oct18/">Come to our upcoming waltz weekend!
+                        <br>
+                        with Richard Powers and Angella Amarilla<br>
+                        October 19-21, 2018.</a><br>
+                      <br>
+                      <p> <a name="english"></a><b>English Country Dance</b></p>
+                      <p> On the third or Fourth Friday, the <a href="http://web.qx.net/dce/lecd/"
+                          target="blank">Lexington English Country Dancers</a>
+                        host a dance with local callers and musicians in Studio
+                        3A, <a href="classes.shtml#ArtsPlace">ArtsPlace</a>.
+                        There is a lesson for beginners preceeding the dance.
+                        Cost: $5 ($2 for full-time students). Children 15 and
+                        under admitted free if accompanied by a responsible
+                        adult. For more information contact Terry at
+                        terryterry@windstream.net.</p>
+                      <!---					
+                                <center>                                    <table width="90%" style="border-width: 0; background-color: White" cellpadding="3"                                        cellspacing="0">                                        <tr>                                            <td class="style2">                                                Date                                            </td>                                            <td class="style2">                                                Lesson                                            </td>                                            <td class="style2">                                                Dance                                            </td>                                        </tr>                                       <tr>                                        <tr>
+                                            <td>                                                Jan 20, 2017                                            </td>                                            <td>                                                7:40 - 8:00                                            </td>                                            <td>                                                8:00 - 10:00                                            </td>                                       </tr>                                        <tr>                                            <td>                                                Feb 17, 2017                                            </td>                                            <td>                                                7:40 - 8:00
+                                            </td>                                            <td>                                                8:00 - 10:00                                            </td>                                       </tr>                                        <tr>                                            <td>                                                Mar 17, 2017                                            </td>                                            <td>                                                7:40 - 8:00                                            </td>                                            <td>                                                8:00 - 10:00                                            </td>                                       </tr>
+                                        <tr>                                            <td>                                                Apr 21, 2017                                            </td>                                            <td>                                                7:40 - 8:00                                            </td>                                            <td>                                                8:00 - 10:00                                            </td>                                       </tr>						   <tr>                                            <td>                                                May 19, 2017                                            </td>                                            <td>
+                                                7:40 - 8:00                                            </td>                                            <td>                                                8:00 - 10:00                                            </td>                                       </tr>						   <tr>                                            <td>                                                Jun 16, 2017                                            </td>                                            <td>                                                7:40 - 8:00                                            </td>                                            <td>                                                8:00 - 10:00                                            </td>
+                                       </tr>						</table>                                </center>--->
+                      <p> <a name="balls"></a></p>
+                      <!---
+                                    <img src="picture_library/KYWW2009.JPG" title="Waltz Weekend 2009" alt="Waltz Weekend 2009" />					</p>					<p>						<strong>Berea, KY - October 13 - 15, 2017 - Waltz Weekend with Richard Powers</strong><br />						LVD is pleased to offer our annual waltz weekend with world-renowned dance historian and teacher Richard Powers! 						Expect a full weekend of dance classes in traditional rotary waltz, modern cross-step waltz and other fun 						dances, plus a Saturday evening social dance.  Dancers will come from all over the country for this. 						Previous waltz experience is advised. 					</p>					<p>						The available places are filled. If you <a href="KYWW_2017">register</a> now, you will be put on a waiting list						in case there are cancelations. Past experience indicates that there will be a few openings.					</p>					<p>						<strong>Berea, KY - October 14, 2017 - Social Dance</strong><br />						In conjunction with our Waltz Weekend, LVD is hosting a social dance 8:00 - 11:00 at the Acton Folk Center. 
+						This ball, open to the public, will be proctored by Richard Powers using his selection of recorded music. 						We will enjoy dances from several vintage eras, from the 1800s to the early 1900s, as well as contemporary 						music. </p>					<p>						The theme is "By the Light of the Silvery Moon," a reference to LVD's 25th anniversary.  Dancers are 						invited to wear something silver or celestial. Admission $15 couples, $10 singles, $5 students at the door.					</p>--->
+                      <p> <img src="picture_library/Fezziwig2009b.jpg" title="Fezziwig Ball 2009"
+                          alt="Fezziwig Ball 2009"> </p>
+                      <p> <strong>Lexington, KY - December - Fezziwig's
+                          Christmas Ball</strong><br>
+                      </p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td valign="top"> &nbsp; </td>
+                  </tr>
+                </tbody>
+              </table>
+            </center>
+          </td>
+          <td style="background-image: url(images/news_bg.jpg)" valign="top">
+            <!--#include file="insert_news.html"--> <br>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="3" style="height: 17" valign="top"> <img src="images/footer.jpg"
+              alt="" style="border-width: 0" height="31" width="760"><br>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </body>
+</html>

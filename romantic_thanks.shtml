@@ -1,0 +1,125 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>LVD - Romantic Music CD - Thank you!</title>
+    <link href="Style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <table align="center" style="background-color: White; width: 760; height: 100%; border-style: none"
+        cellpadding="0" cellspacing="0">
+        <tr>
+            <td style="height: 87" colspan="3" valign="top">
+                <img src="images/header.jpg" width="760" height="142" alt="Welcome to Lexington Vintage Dance"
+                    style="border-style: none" /><br />
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" style="background-image: url(images/nav_bg.jpg)">
+                <!--#include file="insert_nav.html"-->
+            </td>
+            <td valign="top" style="width: 419">
+                <center>
+                    <img src="images/header/romantic.jpg" width="409" height="216" alt="Romantic Music CD"
+                        style="border-width: thin" /></center>
+                <br />
+                <center>
+                    <table style="background-color: White; width: 413; height: 100%; border-style: none"
+                        cellpadding="3" cellspacing="0">
+                        <tr>
+                            <td valign="top">
+                                <img src="images/trans_bg.gif" width="80" height="1" alt="" style="border-style: none" /><br />
+                                <p>
+                                    <b>Thank you for purchasing our Romantic CD!</b></p>
+                                <p>
+                                    We know you'll enjoy listening and dancing to it. Check our <a href="dance_opp.shtml">
+                                        Dance Opportunities</a> and <a href="links.shtml">Links</a> pages for vintage
+                                    dance events near you.</p>
+                                <hr />
+                                <p>
+                                    <b>Click on the song titles to listen to a small portion of that song.</b></p>
+                                <p>
+                                    To listen you will need either Quicktime or Windows Media Player. Both of these
+                                    are free.</p>
+                                <p>
+                                    <a href="http://www.apple.com/quicktime/download/win.html" target="blank">
+                                        <img src="images/quicktime.jpg" alt="Quicktime" align="left" style="border-width: 0;
+                                            height: 25; width: 25" /></a> Download <a href="http://www.apple.com/quicktime/download/win.html"
+                                                target="blank">Quicktime</a></p>
+                                <p>
+                                    <a href="http://www.microsoft.com/windows/windowsmedia/download/AllDownloads.aspx?displang=en&qstechnology="
+                                        target="blank">
+                                        <img src="images/windowsmedia.jpg" alt="Windows Media Player" align="left" style="border-width: 0;
+                                            height: 25; width: 27" /></a> Download <a href="http://www.microsoft.com/windows/windowsmedia/download/AllDownloads.aspx?displang=en&qstechnology="
+                                                target="blank">Windows Media Player</a></p>
+                                <hr />
+                                <p>
+                                    Contents:</p>
+                                <ol>
+                                    <li><a href="Music/Mother Goose.mp3" type="audio/mp3">Mother Goose/Off She Goes</a>
+                                        (3:44)</li>
+                                    <li><a href="Music/Ally.mp3" type="audio/mp3">Ally Croaker</a> (4:00)</li>
+                                    <li><a href="Music/Gayton.mp3" type="audio/mp3">Miss Gayton's Hornpipe</a> (4:05)</li>
+                                    <li><a href="Music/Money.mp3" type="audio/mp3">Money Musk</a> (2:44)</li>
+                                    <li><a href="Music/Fairy.mp3" type="audio/mp3">Fairy Waltz</a> (4:30)</li>
+                                    <li><a href="Music/Kents.mp3" type="audio/mp3">Duke of Kent's Waltz</a> (3:05)</li>
+                                    <li><a href="Music/Wilson.mp3" type="audio/mp3">Wilson Waltzes</a> (2:39)</li>
+                                    <li><a href="Music/Mazurka.mp3" type="audio/mp3">The Original Mazurka</a> (2:50)</li>
+                                    <li><a href="Music/Lady.mp3" type="audio/mp3">Lady Catherine Grimstone</a> (2:28)</li>
+                                    <li><a href="Music/Devonshire.mp3" type="audio/mp3">The Duke of Devonshire's Favorite</a>
+                                        (3:23)</li>
+                                    <li><a href="Music/Cowpen.mp3" type="audio/mp3">Lady Emily Cowpen</a> (2:33)</li>
+                                    <li><a href="Music/Elphinstone.mp3" type="audio/mp3">Miss Elphinstone</a> (3:00)</li>
+                                    <li><a href="Music/Belton.mp3" type="audio/mp3">La Belton</a> (2:51)</li>
+                                    <li><a href="Music/Amalthea.mp3" type="audio/mp3">L'Amalthea</a> (2:40)</li>
+                                    <li><a href="Music/Latona.mp3" type="audio/mp3">La Latona</a> (2:37)</li>
+                                    <li><a href="Music/Dodona.mp3" type="audio/mp3">La Dodona</a> (2:34)</li>
+                                    <li><a href="Music/Chasse.mp3" type="audio/mp3">La Chasse</a> (2:50)</li>
+                                    <li><a href="Music/Paysanne.mp3" type="audio/mp3">La Paysanne</a> (2:31)</li>
+                                    <li><a href="Music/Poule.mp3" type="audio/mp3">La Poule</a> (2:05)</li>
+                                    <li><a href="Music/Flora.mp3" type="audio/mp3">La Flora</a> (2:23)</li>
+                                    <li><a href="Music/Cobourg.mp3" type="audio/mp3">Le Cobourg</a> (3:22)</li>
+                                    <li><a href="Music/Cottage.mp3" type="audio/mp3">"La" Trip to the Cottage</a> (3:33)</li>
+                                    <li><a href="Music/LEte.mp3" type="audio/mp3">L'Ete</a> (4:03)</li>
+                                    <li><a href="Music/Tekeli.mp3" type="audio/mp3">Tekeli</a> (3:58)</li>
+                                    <li><a href="Music/Lancers1.mp3" type="audio/mp3">Lancers Figure 1</a> (1:30)</li>
+                                    <li><a href="Music/Lancers5.mp3" type="audio/mp3">Lancers Figure 5</a> (1:49)</li>
+                                </ol>
+                                <p>
+                                    Total playing time: 78:52
+                                </p>
+                                <p>
+                                    Included with the CD is an insert which includes 18 pages of information about the
+                                    music, musical structure, the dances of the era, basic steps, suggested choreographies
+                                    for some tunes, and sources for music and steps.
+                                </p>
+                                <center>
+                                    <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+                                        <input type="hidden" name="cmd" value="_s-xclick" />
+                                        <input type="image" src="https://www.paypal.com/en_US/i/btn/x-click-but23.gif" style="border-width: 0"
+                                            name="submit" alt="Make payments with PayPal - it's fast, free and secure!" />
+                                        <input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----
+								" />
+                                    </form>
+                                </center>
+                                <p>
+                                    To order your cherished copy on-line using PayPal, click on the Buy Now button above.
+                                    To order by mail, send a check payable to LVD to the address on our contacts page.
+                                    Cost is $18 per CD plus $3 shipping. Kentucky residents add 6% sales tax.</p>
+                                <br />
+                                <br />
+                            </td>
+                        </tr>
+                    </table>
+                </center>
+            </td>
+            <td valign="top" style="background-image: url(images/news_bg.jpg)">
+                <!--#include file="insert_news.html"-->
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3" valign="top" height="17">
+                <img src="images/footer.jpg" alt="" style="border-width: 0; height: 31; width: 760" /><br />
+            </td>
+        </tr>
+    </table>
+</body>
+</html>

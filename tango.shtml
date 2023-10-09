@@ -1,0 +1,91 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=windows-1252">
+    <title>LVD - Argentine Tango Classes</title>
+    <link href="Style.css" rel="stylesheet" type="text/css">
+  </head>
+  <body>
+    <table style="background-color: White; height: 100%; width: 760; border-width: 0"
+      cellspacing="0" cellpadding="0" align="center">
+      <tbody>
+        <tr>
+          <td colspan="3" style="height: 87" valign="top"> <img src="images/header.jpg"
+              style="height: 142; width: 760; border-width: 0" alt="Welcome to Lexington Vintage Dance"><br>
+          </td>
+        </tr>
+        <tr>
+          <td style="background-image: url(images/nav_bg.jpg)" valign="top">
+            <!--#include file="insert_nav.html"--> <br>
+          </td>
+          <td style="width: 419" valign="top">
+            <center> <a href="http://www.buenosairestango.com"> <img style="border-style: solid; border-width: thin"
+                  src="images/argentine_tango.jpg" alt="Buenos Aires Tango" height="216"
+                  width="409"></a></center>
+            <br>
+            <center>
+              <table style="background-color: White; height: 28; width: 413; border-width: 0"
+                cellspacing="0" cellpadding="0">
+                <tbody>
+                  <tr>
+                    <td valign="top"> <a href="vintage.shtml"> <img src="images/vintage.gif"
+                          alt="Vintage Dance" style="border-style: none" height="28"
+                          width="114"></a><br>
+                    </td>
+                    <td valign="top"> <a href="tango.shtml"> <img src="images/tango.gif"
+                          alt="Argentine Tango" style="border-style: none" height="28"
+                          width="127"></a><br>
+                    </td>
+                    <td valign="top"> <a href="country.shtml"> <img src="images/country.gif"
+                          alt="Scottish Country Dance" style="border-style: none"
+                          height="28" width="172"></a><br>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </center>
+            <center>
+              <table style="background-color: White; height: 100%; width: 413; border-width: 0"
+                cellspacing="0" cellpadding="3">
+                <tbody>
+                  <tr>
+                    <td valign="top"> <img src="images/trans_bg.gif" style="height: 10; width: 80; border-width: 0"
+                        alt=""><br>
+                      <p>For more information about tango events in the
+                        Bluegrass, see <a href="http://www.lextango.com">
+                          www.lextango.com</a> or e-mail <a href="mailto:rongariepy@gmail.com">Ron
+                          &amp; Judith Gariepy</a> or call (859) 252-0012.<br>
+                        <br>
+                        Lexington is very lucky to have <a href="http://www.kentucky.com/living/article128190389.html"
+                          target="_blank">Marcela Duran</a> who teaches tango
+                        and also dances professionally with Luis Bravo's
+                        "Forever Tango."</p>
+                      <p><strong><span style="text-decoration: underline">Tango
+                            Practica</span></strong></p>
+                      <p> <b>Dates:</b> Every Wednesday<br>
+                        <b>Time:</b> 8:00 - 10:00 pm.<br>
+                        <b>Place:</b> Studio 3B, <a href="classes.shtml#ArtsPlace">ArtsPlace<br>
+                        </a><b>Instructors:</b> None<br>
+                        <b>Cost:</b> $5 per person. Free to first timers. </p>
+                      <p> Work Sessions give you a chance to work on your
+                        technique with your partner in a studio environment. Ask
+                        for feedback from fellow dancers, or just do your own
+                        thing. There is no lesson. </p>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </center>
+          </td>
+          <td style="background-image: url(images/news_bg.jpg)" valign="top">
+            <!--#include file="insert_news.html"--> <br>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="3" style="height: 17" valign="top"> <img src="images/footer.jpg"
+              style="height: 31; width: 760; border-width: 0" alt=""><br>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </body>
+</html>
