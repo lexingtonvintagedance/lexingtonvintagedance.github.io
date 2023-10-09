@@ -1,0 +1,298 @@
+/* @override http://localhost:4000/stylesheets/waltz/glissade.css */
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: palatino, georgia, serif;
+	background: #caefbd;
+	min-width: 950px;
+}
+
+img {
+	border: none;
+}
+
+.clear {
+	clear: both;
+}
+
+#sideContent {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 400px;
+	padding-top: 60px;
+	background: white;
+	
+}
+
+#rpWaltz {
+	margin: auto;
+	display: block;
+}
+
+#nav {
+
+}
+
+#nav a {
+	display: block;
+	color: white;
+	background: #000;
+	padding: 6px 0 6px 35px;
+	font-size: 20px;
+	text-decoration: none;
+}
+
+#nav a:hover {
+	background: #13803d;
+}
+
+#nav a span {
+	color: #616161;
+	font-size: 15px;
+	font-style: italic;
+}
+
+#nav a:hover span {
+	color: #59c181;
+}
+
+#mainContent {
+	position: relative;
+	width: 65%;
+	margin-left: 410px;
+	margin-bottom: 500px;
+}
+
+#mainContent p {
+	line-height: 20px;
+	margin-bottom: 10px;
+}
+
+#mainContent a {
+	display: block;
+	color: #222;
+	padding: 5px;
+	margin-left: -5px;
+	line-height: 17px;
+}
+
+#mainContent a.inline {
+	display: inline;
+	padding: 0;
+	margin: 0;
+}
+
+#mainContent a:hover {
+	background: #fcfc70;
+}
+
+b {
+	font-style: normal;
+	color: #444;
+}
+
+#mainContent a.external {
+	background: url(/images/waltz/external.png) no-repeat right;
+	padding-right: 16px;
+}
+
+#mainContent a.external:hover {
+	background: #fcfc70 url(/images/waltz/external.png) no-repeat right;
+}
+
+h1 {
+	font-size: 20px;
+	clear: left;
+}
+
+h2 {
+	clear: left;
+	font-size: 17px;
+	font-weight: normal;
+	font-style: italic;
+	color: #777;
+	margin-bottom: 8px;
+}
+
+.highlight {
+	background: #fcfc70;
+	color: #555;
+}
+
+.tableRow {
+	width: 75%;
+	margin-left: 25%;
+	margin-top: 10px;
+	position: relative;
+	min-height: 40px;
+}
+
+#schedule {
+	display: block;
+}
+
+#schedule .tableRow {
+	margin-bottom: 10px;
+	border-bottom: 1px solid #777;
+}
+
+#schedule .lineItem {
+	margin-bottom: 3px;
+	padding-bottom: 3px;
+	border-bottom: 1px dashed #ccc;
+}
+
+.day {
+	position: absolute;
+	left: -33%;
+}
+
+.event {
+	float: left;
+	clear: left;
+	width: 50%;
+}
+
+img.wide {
+	width: 100%;
+	margin: 10px 0;
+	border: 2px solid #ddd;
+}
+
+.tableRow .imgContainer {
+	position: absolute;
+	left: -33%;
+	top: 1px;
+	width: 30%;
+}
+
+.imgContainer img{
+	width: 100%;
+	margin: 0;
+}
+
+.tableRow.first {
+	border-bottom: 1px dashed #ccc;
+}
+
+.tableRow a {
+	float: left;
+}
+
+h3 {
+	padding: 5px;
+	font-size: 16px;
+	background: #baf3ff;	
+}
+
+.tableRow h3 {
+	position: absolute;
+	left: -33%;
+	top: 0;
+	width: 29%;
+}
+
+a#pdf {
+	display: block;
+	float: left;
+padding: 5px 36px 5px 5px;
+	position: relative;
+}
+
+#pdf img {
+	position: absolute;
+	right: 3px;
+	top: 1px;
+}
+
+blockquote {
+	clear: left;
+	margin: 10px 0;
+	padding: 5px 0;
+	color: #222;
+}
+
+#mainContent blockquote p {
+	margin: 0;
+}
+
+.comment {
+	color: #777;
+	font-style: italic;
+}
+
+blockquote .comment {
+	margin: 5px 0;
+	font-size: 16px;
+}
+
+#directions {
+	width: 100%;
+	margin-bottom: 10px;
+	border-bottom-color: #75d5d5;
+}
+
+#registerOnline .comment {
+	padding: 5px;
+	float: left;
+}
+
+#location a {
+	float: left;
+	clear: left;
+	margin: 0;
+}
+
+.container {
+	width: 100%;
+	clear: left;
+}
+
+.contained {
+	width: 92%;
+	margin: 10px auto 10px;
+	padding: 10px;
+	min-height: 200px;
+	background: white;
+	border-bottom: 5px solid #c6c6c6;
+}
+
+#formContainer {
+	background: white;
+}
+
+#form {
+	padding: 10px;
+	width: 94%;
+	margin: auto;
+	border: 10px solid #4d1380;
+}
+
+#aboutAngela h1 {
+	padding-top: 10px;
+}
+
+h4 {
+	font-size: 16px;
+	margin: 8px 0 3px;
+	border-bottom: 2px solid #ccc;
+}
+
+#housing a {
+	margin-left: 5px;
+}
+
+.video {
+	margin: 8px 0 20px;
+	padding-top: 8px;
+	border-top: 1px dashed #ccc;
+}
+
+.video .comment {
+	margin: 5px 0;
+}

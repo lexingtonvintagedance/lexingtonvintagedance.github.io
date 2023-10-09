@@ -1,0 +1,11 @@
+form .instruct small {
+	font-size:13px !important;
+	font-style: italic !important;
+	color:#777 !important;
+	line-height: 15px !important;
+}
+
+form li div label, form li span label {
+	font-size: 12px !important;
+	line-height: 12px !important;
+}
