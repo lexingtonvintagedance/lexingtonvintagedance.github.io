@@ -1,0 +1,56 @@
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=windows-1252">
+  </head>
+  <body>
+    <table style="background-image: url(images/news_bg.jpg); height: 100%" cellspacing="0"
+      cellpadding="0" border="0" align="center" width="170">
+      <tbody>
+        <tr>
+          <td valign="top"> <img src="images/top_news.gif" alt="news" style="border-top-width: 0px;
+                border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px"
+              height="26" width="170"><br>
+            <img src="images/trans_bg.gif" alt="" style="border-top-width: 0px;
+                border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px"
+              height="1" width="170"><br>
+            <table style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px;
+                height: 100%; border-right-width: 0px" cellspacing="0" cellpadding="0"
+              align="center" width="160">
+              <tbody>
+                <tr>
+                  <td valign="top">
+                    <p> <img alt="" src="images/bullet.jpg" style="border-top-width: 0px; border-left-width: 0px;
+                                border-bottom-width: 0px; border-right-width: 0px"
+                        height="7" width="7">&nbsp; <span><strong>Alert!
+                          Tonight's Waltz &amp; Beyond has been cancelled due to
+                          weather concerns.</strong></span><br>
+                      <span style="text-decoration: line-through;"><strong>Type</strong>:
+                        Class &amp; Social Event<br>
+                        <strong>Date</strong>: Mon, Jan 8, 2018<br>
+                        <strong>Time</strong>: 7:00 - 9:00<br>
+                        <strong>Place</strong>: ArtsPlace<br>
+                        <strong>Cost</strong>: $10/$5<br>
+                        <strong>Lesson</strong>: East Coast Swing</span><br>
+                      <a href="vintage.shtml#beyond">More...</a> </p>
+                    <p> <img alt="" src="images/bullet.jpg" style="border-top-width: 0px; border-left-width: 0px;
+                                border-bottom-width: 0px; border-right-width: 0px"
+                        height="7" width="7">&nbsp; <a href="romantic.shtml"> <b>Our
+                          Romantic CD is here!</b></a> </p>
+                    <p> <img alt="" src="images/bullet.jpg" style="border-top-width: 0px; border-left-width: 0px;
+                                border-bottom-width: 0px; border-right-width: 0px"
+                        height="7" width="7">&nbsp; <a href="regency.shtml"> <b>Our
+                          Regency CD is here!</b></a> </p>
+                    <p> <img alt="" src="images/bullet.jpg" style="border-top-width: 0px; border-left-width: 0px;
+                                border-bottom-width: 0px; border-right-width: 0px"
+                        height="7" width="7">&nbsp; <a href="about.shtml"> <b>Donate
+                          to LVD!</b></a> </p>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </body>
+</html>
