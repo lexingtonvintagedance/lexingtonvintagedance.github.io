@@ -1,7 +1,7 @@
 /* Reset and general styles */
 
 body, html {
-	display: flex;
+    display: flex;
     flex-direction: column;
     min-height: 100vh;
     height: 100%;
@@ -16,8 +16,6 @@ body {
     background-repeat: no-repeat;
     color: #333;
 }
-
-/* Header styles */
 
 /* Header styles */
 
@@ -58,11 +56,11 @@ nav {
 .nav-list a {
     text-decoration: none;
     color: #333;
-    padding: 0.75em 1em; /* Reduced padding on menu items */
+    padding: 1em; /* Reduced padding on menu items */
     display: block;
     font-family: 'Freehand', cursive;
     font-weight: bold;
-    font-size: 1.5em; /* Increased font size for menu items */
+    font-size: 1.5em; /* Increased font size for menu items on mobile */
     transition: background-color 0.3s;
 }
 
@@ -78,7 +76,6 @@ nav {
     background-color: #eae6ff;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     border-radius: 0 0 8px 8px;
-    padding: 0.5em; /* Adjusted padding in dropdown */
 }
 
 .has-dropdown:hover .dropdown {
@@ -94,13 +91,12 @@ nav {
 .dropdown li {
     border-bottom: 1px solid #ccc;
     text-align: left;
-    margin: 0.5em 0; /* Adjusted margin in dropdown items */
 }
 
 /* Main content styles */
 
 main {
-	flex: 1;
+    flex: 1;
     max-width: 960px;
     margin: 20px auto;
     padding: 0 20px;
@@ -109,7 +105,7 @@ main {
 .content-container {
     max-width: 960px;
     margin: 0 auto;
-    background-color: rgba(255, 255, 255, 0.5); /* Translucent white background */
+    background-color: rgba(255, 255, 255, 0.9); /* More translucent white background */
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.1); /* Shadow for a subtle effect */
@@ -119,4 +115,16 @@ footer {
     text-align: center;
     margin-top: 5px; /* Adjust the margin as needed */
     margin-bottom: 40px; /* Adjust the margin to add more space below the footer */
+}
+
+/* Media query for small screens (max-width: 600px) */
+@media only screen and (max-width: 600px) {
+    .branding h1 {
+        font-size: 1.5em; /* Adjusted font size for small screens */
+    }
+
+    .nav-list a {
+        padding: 0.8em; /* Adjusted padding for menu items on small screens */
+        font-size: 1.2em; /* Adjusted font size for menu items on small screens */
+    }
 }
